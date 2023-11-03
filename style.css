@@ -464,11 +464,10 @@ nav .fa-solid{
 
     .social-icons .whatsapp{
         position: fixed;
-        top: 0;
         right: -160px;
         width: 200px;
         height: 100vh;
-        padding-top: 480px;
+        top: 85%;
         z-index: 2;
         color: #61b752;
         font-size: 40px;
